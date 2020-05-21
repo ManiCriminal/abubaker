@@ -76,8 +76,8 @@ logo = """
 
 jalan("\033[1;95m♤͜͡♤════✷ Abu Baker") 
 jalan("\033[1;92m♤͜͡♤════✷ ASALM O ALAIKUM MOST WELCOME") 
-jalan("\033[1;93m♤͜͡♤════✷ RAMZAN MUBRIK") 
-jalan("\033[1;96m♤͜͡♤════✷ NEW COMMAND S K SATH HAZAR HEIN ") 
+jalan("\033[1;93m♤͜͡♤════✷ RAMZAN MUBRIK FRS") 
+jalan("\033[1;96m♤͜͡♤════✷ NEW COMMAND KA SATH HAZAR HEIN ") 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -103,7 +103,7 @@ print  """
   \033[1;97m    ║\033[1;96mCREATOR  \033[1;91m║✥║──➣\033[1;93m ABU BAKER
   \033[1;97m    ║\033[1;96mFACEBOOK \033[1;91m║✥║──➣\033[1;93m YOUTUBER
   \033[1;97m    ║\033[1;96mExPORT \033[1;91m║✥║──➣\033[1;93m Follow
-  \033[1;97m    ║\033[1;92mMISHI KHAN \033[1;91m║✥║──➣\033[1;92m ALL COUNTRIES
+  \033[1;97m    ║\033[1;92mMISHI KHAN \033[1;91m║✥║──➣\033[1;92m ALL COUNTRIES COMMANDS
   \033[1;97m    ╚──────➣──────➣──────➣──────➣──────➣
 \033[1;98m•◈••◈•WE•◈
 
@@ -127,8 +127,8 @@ print  """
 
 print "\033[1;96m☪════║║║║║✷♤͜͡♤ABU●BAKER♤͜͡♤✷║║║║║════✷" 
 
-CorrectUsername ="khan"
-CorrectPassword = "khan"
+CorrectUsername ="HASII"
+CorrectPassword = "HASII"
 
 loop = 'true'
 while (loop == 'true'):
